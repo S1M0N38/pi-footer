@@ -4,8 +4,9 @@ Minimal [pi](https://pi.dev) extension that makes the git branch in the built-in
 clickable link:
 
 ```
-~/Code/github.com/S1M0N38/pi-footer (main)        ↑12k ↓3.4k R98k $0.412 8.2%/200k (auto)
-                                  └ clickable
+                                      ┏ clickable
+~/Code/github.com/S1M0N38/pi-footer (main)
+↑187k ↓39k R3.5M CH99.8% $0.062 9.3%/1.0M (auto)           deepseek-v4.1-flash • high
 ```
 
 `main` opens `https://github.com/S1M0N38/pi-footer/tree/main`. Nothing else about the footer
